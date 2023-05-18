@@ -2,7 +2,7 @@
 
 REMOTE_BRANCH="master"
 LOCAL_BRANCH="master"
-REPO_PATH="/root/myrepo"
+REPO_PATH="/root/razi"
 
 cd "$REPO_PATH"
 
